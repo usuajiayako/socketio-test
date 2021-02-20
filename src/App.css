@@ -2,3 +2,11 @@
   text-align: center;
 }
 
+.chat-display {
+  border: 2px red solid;
+}
+
+.chat-display2 {
+  margin-top: 100px;
+  border: 2px blue solid;
+}
